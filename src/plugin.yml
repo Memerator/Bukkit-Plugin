@@ -3,7 +3,7 @@ main: me.memerator.memeratorspigot.MemeratorSpigot
 version: 1.0
 api-version: 1.14
 description: The official Spigot Plugin for Memerator
-author: Memerator Developers & Contributors
+author: 'Memerator Developers & Contributors'
 website: https://github.com/Memerator/Memerator-Spigot
 commands:
    memerator:

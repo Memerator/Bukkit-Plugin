@@ -6,7 +6,7 @@ public class MemeratorSpigot extends JavaPlugin {
   public void onEnable() {
     if (getServer().getOnlineMode()) {
       System.out.println("[Memerator] Memerator Plugin ready to go!");
-      this.getCommand("npns").setExecutor(new HelpCommand());
+      this.getCommand("memerator").setExecutor(new HelpCommand());
     } else {
       System.out.println("[Memerator] This plugin cannot work in Offline mode! Try again!");
       getServer().getPluginManager().disablePlugin(this);

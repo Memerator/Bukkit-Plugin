@@ -1,0 +1,14 @@
+name: Memerator
+main: me.memerator.memeratorspigot.MemeratorSpigot
+version: 1.0
+api-version: 1.14
+description: The official Spigot Plugin for Memerator
+author: Memerator Developers & Contributors
+website: https://github.com/Memerator/Memerator-Spigot
+commands:
+   memerator:
+      description: The main command for the plugin.
+      usage: "Usage: /memerator"
+      permission: memerator.help
+      permission-message: The admins have revoked your ability to run this command! Big sad :((()))
+      default: true

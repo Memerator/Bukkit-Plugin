@@ -9,7 +9,7 @@ public class HelpCommand implements CommandExecutor {
     if (sender instanceof Player) {
 
       if(args.length == 0) {
-        sender.sendMessage("Welcome to Memerator Spigot.\nHave you linked your account? Be sure to with /memerator link [Memerator Account]");
+        sender.sendMessage("Welcome to §cMemerator§6 Spigot§r.\nHave you linked your account? Be sure to with /memerator link [Memerator Account]");
       }
 
     } else {

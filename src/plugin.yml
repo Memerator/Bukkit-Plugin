@@ -1,10 +1,10 @@
 name: Memerator
-main: me.memerator.memeratorspigot.MemeratorSpigot
+main: me.memerator.mc.MemeratorPlugin
 version: 1.0
 api-version: 1.14
-description: The official Spigot Plugin for Memerator
+description: The official Bukkit Plugin for Memerator
 author: 'Memerator Developers & Contributors'
-website: https://github.com/Memerator/Memerator-Spigot
+website: https://github.com/Memerator/Memerator-Bukkit
 commands:
    memerator:
       description: The main command for the plugin.

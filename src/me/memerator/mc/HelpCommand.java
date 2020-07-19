@@ -1,4 +1,4 @@
-package me.memerator.memeratorspigot;
+package me.memerator.mc;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

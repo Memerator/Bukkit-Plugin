@@ -1,7 +1,7 @@
-package me.memerator.memeratorspigot;
+package me.memerator.mc;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class MemeratorSpigot extends JavaPlugin {
+public class MemeratorPlugin extends JavaPlugin {
     // Fired when plugin is first enabled
     public void onEnable() {
         if (getServer().getOnlineMode()) {
